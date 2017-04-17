@@ -1,0 +1,16 @@
+package pack1;
+
+public class MainClass {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		
+		ChildClass child = new ChildClass();
+		SuperClass superClass = new SuperClass();
+		 SuperClass child1 = new ChildClass();
+
+	}
+
+}
