@@ -1,0 +1,8 @@
+package pack1;
+
+public class SuperClass {
+	public int add(int a,int b){
+		System.out.println("Super class method");
+		return a+b;
+	}
+}

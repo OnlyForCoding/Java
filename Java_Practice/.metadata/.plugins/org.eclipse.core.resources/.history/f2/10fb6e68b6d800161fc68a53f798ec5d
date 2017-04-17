@@ -1,0 +1,10 @@
+package pack1;
+
+public class Pegasus extends Horse implements Flyer,Mythical{
+	
+	public static void main(String[] args) {
+		Pegasus myApp = new Pegasus();
+		myApp.identifyMyself();
+	}
+
+}
