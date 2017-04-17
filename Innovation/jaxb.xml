@@ -1,0 +1,10 @@
+<students>
+    <names name=""/>
+    <age age=""/>
+    <std std=""/>
+    <address>
+        <road name=""/>
+        <pin pin=""/>
+        <area name=""/>
+    </address>
+</students>
